@@ -1,5 +1,5 @@
 ⚽ KickStats
-*NOTE: The data extracted throught api is from year 2024, could not find any free api. Do let me know if you find a free api or an api for less price. 
+*NOTE: The data extracted throught api is from year 2024, could not find any free api. Do let me know if you find a free api or an api for less price.* 
 
 KickStats is a comprehensive football statistics application that brings you closer to the game you love. Whether you're a casual fan or a data-driven football enthusiast, KickStats provides real-time updates, player and team insights, and everything you need to stay on top of the football world.
 
