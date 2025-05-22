@@ -23,13 +23,11 @@ Team Stats: Analyze team performance with stats like possession, shots on goal, 
 
 Real-Time News: Get the latest news about players and teams, including transfers, injuries, and more.
 
-📸 Screenshots
-Coming Soon!
 
 🛠️ Tech Stack
 Frontend: React / Next.js (update based on what you’re using)
 
-Backend: Node.js / Express / Python / Django (update accordingly)
+Backend: Node.js / JavaScript (update accordingly)
 
 Database: MongoDB 
 
